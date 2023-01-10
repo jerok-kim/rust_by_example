@@ -1,0 +1,10 @@
+/// Rust provides access to a wide variety of `primitives`. A sample includes:
+/// 
+/// ## Scalar Types
+/// 
+/// - signed integers: `i8`, `i16`, `i32`, `i64`, `i128` and `isize`(pointer size)
+/// - unsigned integers: `u8`, `u16`, `u32`, `u64`, `u128` and `usize`(pointer size)
+/// - floating point: `f32`, `f64`
+/// - `char` Unicode scalar values like `'a'`, `'α'` and `'∞'`(4 bytes each)
+
+fn main(){}
